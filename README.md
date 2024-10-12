@@ -8,3 +8,8 @@
  - **backtest-pairs-trading.ipynb** : Backtesting and compare performance with different hyperparameters setting 
  
 Implementation on Alpaca Markets : [here](https://github.com/Bensk-96/pairs-trading-alpaca)
+
+## Reference
+- Cartea, Á., Jaimungal, S., & Penalva, J. (2018). *Algorithmic and High-Frequency Trading*, p. 273 - 294.
+- Miao, G. J. (2014). *High Frequency and Dynamic Pairs Trading Based on Statistical Arbitrage Using a Two-Stage Correlation and Cointegration Approach*.
+
