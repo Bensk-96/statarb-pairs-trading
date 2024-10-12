@@ -7,4 +7,4 @@
  - **parameter-calculation-coint-pairs.ipynb** : Find co-integrated pairs and the corresponding parameters for backtesting 
  - **backtest-pairs-trading.ipynb** : Backtesting and compare performance with different hyperparameters setting 
  
-Implementation : [here](https://github.com/Bensk-96/pairs-trading-alpaca)
+Implementation on Alpaca Markets : [here](https://github.com/Bensk-96/pairs-trading-alpaca)
